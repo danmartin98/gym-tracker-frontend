@@ -15,3 +15,4 @@ export default function useFetch(url) {
 
   return [data];
 }
+// Test if working
